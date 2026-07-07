@@ -67,7 +67,7 @@
 
 <div align="center">
 
-[![Chitranshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chitranshu2411&bg_color=0d1117&color=00f2ff&line=22c55e&point=ffffff&area=true&hide_border=true)](https://github.com/Chitranshu2411)
+[![Chitranshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chitranshu2411&bg_color=0d1117&color=00f2ff&line=22c55e&point=ffffff&area=true&hide_border=true)](https://github.com/Chitranshu-Yaduwanshi07)
 
 </div>
 
