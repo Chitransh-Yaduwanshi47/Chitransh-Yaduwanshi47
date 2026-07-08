@@ -71,23 +71,10 @@
 
 </div>
 
-<br/>
-
-<h2 align="center">⚡ Activity ⚡</h2>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Chitransh-Yaduwanshi&t47heme=dark&hide_border=true&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=22c55e&dates=ffffff)](https://git.io/streak-stats)
-
-</div>
-
-<br/>
-
+<h2 align="center">🔥 GitHub Streak 🔥</h2>
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Chitransh-Yaduwanshi47&theme=tokyonight&hide_border=true&v=2"/>
 </p>
-
-## 🕹️ Pacman Contribution Game
 
 ---
 
