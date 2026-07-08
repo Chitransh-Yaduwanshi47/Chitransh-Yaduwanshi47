@@ -86,7 +86,9 @@
 ## 🕹️ Pacman Contribution Game
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+
+<img src="https://streak-stats.demolab.com?user=Chitransh-Yaduwanshi47&theme=dark&hide_border=true&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=22c55e&dates=ffffff"/>
+
 </p>
 
 ---
