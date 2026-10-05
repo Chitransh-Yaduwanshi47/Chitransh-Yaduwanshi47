@@ -15,7 +15,7 @@
 
 # 🚀 About Me
 
-- 🎓 3rd Year CSE Student  
+- 🎓 Final Year CSE Student  
 - 💻 Target: Java Full Stack Developer   
 - 🧠 AI + RAG + LLM Integration  
 - 🏗️ Building: CodeNova (AI-Driven Code Generation Saas platform)  
